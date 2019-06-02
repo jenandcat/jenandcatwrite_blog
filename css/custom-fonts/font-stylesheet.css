@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'catsalphabetregular';
-    src: url('custom-fonts/catsalphabet-webfont.woff2') format('woff2'),
-         url('custom-fonts/catsalphabet-webfont.woff') format('woff');
+    src: url('catsalphabet-webfont.woff2') format('woff2'),
+         url('catsalphabet-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
